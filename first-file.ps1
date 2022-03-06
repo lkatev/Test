@@ -2,4 +2,4 @@ $env:Path
 
 Something new
 
-Get-Process
+Get-Process;
